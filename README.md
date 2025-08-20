@@ -3,7 +3,7 @@
 
 ## 📋 Project Overview
 The TriServo Synchronization Control System is an educational Arduino-based project that demonstrates how to control multiple servo motors in a synchronized and coordinated manner. This project serves as an excellent foundation for learning robotics and motor control, and can be further developed for more complex applications such as robotic arms or automation systems.
-<img src="circuit_diagram.png" width="500" alt="Circuit Diagram">
+<img src="circuit_diagram.png" width="700" alt="Circuit Diagram">
 
 ## 🎯 Project Goal
 
@@ -11,7 +11,7 @@ Learn the fundamentals of controlling multiple servo motors and understand the c
 
 ## 🚀 Demo
 
-![Demo GIF](servo_demo.gif)
+<img src="servo_demo.gif" width="700" alt="Demo GIF">
 *Three servo motors working in perfect synchronization*
 
 ### 🎬 Live Demo Features:
